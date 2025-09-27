@@ -16,3 +16,17 @@
 12. [Update Deployment and Service in Kubernetes](./level-1/12%20Update%20Deployment%20and%20Service%20in%20Kubernetes/README.md)
 13. [Deploy Highly Available Pods with ReplicationController](./level-1/13%20Deploy%20Highly%20Available%20Pods%20with%20ReplicationController/README.md)
 14. [Resolve VolumeMounts Issue in Kubernetes](./level-1/14%20Resolve%20VolumeMounts%20Issue%20in%20Kubernetes/README.md)
+
+## level-2
+
+1. [Kubernetes Shared Volumes](./level-2/01%20Kubernetes%20Shared%20Volumes/README.md)
+2. [Kubernetes Sidecar Containers](./level-2/02%20Kubernetes%20Sidecar%20Containers/README.md)
+3. [Deploy Nginx Web Server on Kubernetes Cluster](./level-2/03%20Deploy%20Nginx%20Web%20Server%20on%20Kubernetes%20Cluster/README.md)
+4. [Print Environment Variables](./level-2/04%20Print%20Environment%20Variables/README.md)
+5. [Rolling Updates And Rolling Back Deployments in Kubernetes](./level-2/05%20Rolling%20Updates%20And%20Rolling%20Back%20Deployments%20in%20Kubernetes/README.md)
+6. [Deploy Jenkins on Kubernetes](./level-2/06%20Deploy%20Jenkins%20on%20Kubernetes/README.md)
+7. [Deploy Grafana on Kubernetes Cluster](./level-2/07%20Deploy%20Grafana%20on%20Kubernetes%20Cluster/README.md)
+8. [Deploy Tomcat App on Kubernetes](./level-2/08%20Deploy%20Tomcat%20App%20on%20Kubernetes/README.md)
+9. [Deploy Node App on Kubernetes](./level-2/09%20Deploy%20Node%20App%20on%20Kubernetes/README.md)
+10. [Troubleshoot Deployment issues in Kubernetes](./level-2/10%20Troubleshoot%20Deployment%20issues%20in%20Kubernetes/README.md)
+11. [Fix issue with LAMP Environment in Kubernetes](./level-2/11%20Fix%20issue%20with%20LAMP%20Environment%20in%20Kubernetes/README.md)
