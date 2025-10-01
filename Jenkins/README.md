@@ -9,3 +9,11 @@
 5. [Configure Jenkins Job for Package Installation](./level-1/05%20Configure%20Jenkins%20Job%20for%20Package%20Installation/README.md)
 
 [Level-1 Certificate](./level-1/certificate/README.md)
+
+## Level-2
+
+1. [Jenkins Views](./level-2/01%20Jenkins%20Views/README.md)
+2. [Jenkins Parameterized Builds](./level-2/02%20Jenkins%20Parameterized%20Builds/README.md)
+3. [Jenkins Workspaces](./level-2/03%20Jenkins%20Workspaces/README.md)
+4. [Jenkins Database Backup Job](./level-2/04%20Jenkins%20Database%20Backup%20Job/README.md)
+5. [Jenkins Scheduled Jobs](./level-2/05%20Jenkins%20Scheduled%20Jobs/README.md)
