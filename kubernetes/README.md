@@ -30,3 +30,16 @@
 9. [Deploy Node App on Kubernetes](./level-2/09%20Deploy%20Node%20App%20on%20Kubernetes/README.md)
 10. [Troubleshoot Deployment issues in Kubernetes](./level-2/10%20Troubleshoot%20Deployment%20issues%20in%20Kubernetes/README.md)
 11. [Fix issue with LAMP Environment in Kubernetes](./level-2/11%20Fix%20issue%20with%20LAMP%20Environment%20in%20Kubernetes/README.md)
+
+## level-3
+
+1. [Deploy Apache Web Server on Kubernetes CLuster](./level-3/01%20Deploy%20Apache%20Web%20Server%20on%20Kubernetes%20CLuster/README.md)
+2. [Deploy Lamp Stack on Kubernetes Cluster](./level-3/02%20Deploy%20Lamp%20Stack%20on%20Kubernetes%20Cluster/README.md)
+3. [Init Containers in Kubernetes](./level-3/03%20Init%20Containers%20in%20Kubernetes/README.md)
+4. [Persistent Volumes in Kubernetes](./level-3/04%20Persistent%20Volumes%20in%20Kubernetes/README.md)
+5. [Manage Secrets in Kubernetes](./level-3/05%20Manage%20Secrets%20in%20Kubernetes/README.md)
+6. [Environment Variables in Kubernetes](./level-3/06%20Environment%20Variables%20in%20Kubernetes/README.md)
+7. [Kubernetes LEMP Setup](./level-3/07%20Kubernetes%20LEMP%20Setup/README.md)
+8. [Kubernetes Troubleshooting](./level-3/08%20Kubernetes%20Troubleshooting/README.md)
+9. [Deploy Iron Gallery App on Kubernetes](./level-3/09%20Deploy%20Iron%20Gallery%20App%20on%20Kubernetes/README.md)
+10. [Fix Python App Deployed on Kubernetes Cluster](./level-3/10%20Fix%20Python%20App%20Deployed%20on%20Kubernetes%20Cluster/README.md)
